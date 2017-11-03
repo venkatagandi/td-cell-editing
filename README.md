@@ -25,3 +25,19 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+https://medium.com/front-end-hacking/inline-editing-with-angular2-58b43cc2aba
+
+https://stackoverflow.com/questions/42270608/when-i-click-edit-button-all-my-table-value-changed-to-input-box
+
+https://stackoverflow.com/questions/36823105/angular-2-edit-table-rows-inline-then-save-the-new-data
+
+https://stackoverflow.com/questions/42050087/angular-2-on-click-table-cell-make-it-editable
+https://github.com/angular/angular/issues/7329
+
+http://blog.rangle.io/angular-2-ngmodel-and-custom-form-components/
+
+https://angular.io/guide/dynamic-form
+
+https://stackoverflow.com/questions/41851807/dynamic-ngmodel-in-angular-2
